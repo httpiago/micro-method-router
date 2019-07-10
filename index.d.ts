@@ -6,6 +6,7 @@ declare module 'micro-method-router' {
     head?: RequestHandler,
     post?: RequestHandler,
     put?: RequestHandler,
+    patch?: RequestHandler,
     delete?: RequestHandler,
     connect?: RequestHandler,
     options?: RequestHandler,
