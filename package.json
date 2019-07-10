@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/jamo/micro-method-router#readme",
   "devDependencies": {
+    "@types/micro": "^7.3.3",
     "micro": "6.1.0"
   }
 }
